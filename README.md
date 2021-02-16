@@ -12,8 +12,7 @@ This repo contains all the stuff I need to set up a DevBox environment on Window
 
 ### Install Applications
 
-`Install-BoxstarterPackage -PackageName https://gist.githubusercontent.com/froko/d3f9861566cde2b2a347d0093d61e102/raw/0dd8d3de684559f828d5e90e459dbf6148bf056e/dev-box-setup.ps1 -DisableReboots`
+`Install-BoxstarterPackage -PackageName https://raw.githubusercontent.com/froko/windows-devbox-setup/main/dev-box-setup.ps1 -DisableReboots`
 
 ### References
 - [Quickly setup any machine with just a Gist - No Preinstalled software required](https://boxstarter.org/Learn/WebLauncher)
-- [dev-box-setup.ps1 (Gist)](https://gist.github.com/froko/d3f9861566cde2b2a347d0093d61e102)
