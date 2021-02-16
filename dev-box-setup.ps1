@@ -11,8 +11,6 @@ cinst docker-desktop -y --cacheLocation="c:\Temp"
 cinst git -y --cacheLocation="c:\Temp"
 cinst gitkraken -y --cacheLocation="c:\Temp"
 cinst keepass -y --cacheLocation="c:\Temp"
-cinst microsoft-teams -y --cacheLocation="c:\Temp"
-cinst microsoft-windows-terminal -y --cacheLocation="c:\Temp"
 cinst nswagstudio -y --cacheLocation="c:\Temp"
 cinst paint.net -y --cacheLocation="c:\Temp"
 cinst patchcleaner -y --cacheLocation="c:\Temp"
@@ -21,10 +19,11 @@ cinst pwsh -y --cacheLocation="c:\Temp"
 cinst slack -y --cacheLocation="c:\Temp"
 cinst vcxsrv -y --cacheLocation="c:\Temp"
 cinst vlc -y --cacheLocation="c:\Temp"
+cinst zoom -y --cacheLocation="c:\Temp"
 
 # Fonts
-cinst cascadiacode -y --cacheLocation="c:\Temp"
 cinst FiraCode -y --cacheLocation="c:\Temp"
+cinst firacodenf -y --cacheLocation="c:\Temp"
 
 # SDKs
 cinst nodejs-lts -y --cacheLocation="c:\Temp"
