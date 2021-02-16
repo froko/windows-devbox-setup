@@ -1,0 +1,9 @@
+{
+    "angular.experimental-ivy": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 12,
+    "terminal.integrated.fontFamily": "FiraCode NF",
+    "terminal.integrated.fontSize": 12,
+    "terminal.external.windowsExec": "pwsh",
+    "editor.fontLigatures": true
+}
